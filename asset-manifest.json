@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-gpa/static/css/main.04179b6f.css",
+    "main.js": "/my-gpa/static/js/main.c3854b16.js",
+    "index.html": "/my-gpa/index.html",
+    "main.04179b6f.css.map": "/my-gpa/static/css/main.04179b6f.css.map",
+    "main.c3854b16.js.map": "/my-gpa/static/js/main.c3854b16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04179b6f.css",
+    "static/js/main.c3854b16.js"
+  ]
+}
